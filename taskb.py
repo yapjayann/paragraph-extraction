@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 16 17:11:55 2023
 
-@author: Dell
+@author: Jen
 """
 #Task b: Paragraphs Extraction
 import cv2
