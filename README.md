@@ -1,0 +1,1 @@
+This is an assessment for my Digital Image Processing course. The code demonstrated paragraph extractions from images while ignoring tables and coloured graphics. The extractions are stored in a separate folder
