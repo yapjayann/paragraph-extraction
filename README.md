@@ -1,5 +1,5 @@
 ## Introduction
-In part B, the goal is to develop a program capable of identifying and extracting paragraphs from captured images of multiple research papers, followed by arranging them in the correct sequence. Additionally, the program must ignore existing tables and graphics which should not be considered as paragraphs. The program contains multiple functions to separate and extract the paragraphs, which include HSV filtering, object masking, adaptive thresholding, contour detection, contour filtering by area, morphological operation (closing), rectangle drawing over regions of interest, and extractions of detected regions.  
+For this program, the goal is to develop a program capable of identifying and extracting paragraphs from captured images of multiple research papers, followed by arranging them in the correct sequence. Additionally, the program must ignore existing tables and graphics which should not be considered as paragraphs. The program contains multiple functions to separate and extract the paragraphs, which include HSV filtering, object masking, adaptive thresholding, contour detection, contour filtering by area, morphological operation (closing), rectangle drawing over regions of interest, and extractions of detected regions.  
 
 ## Methodology
  ![image](https://github.com/user-attachments/assets/f959bb9b-9607-40b8-b50e-795bfe7d92bf)
